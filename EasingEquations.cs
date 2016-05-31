@@ -1,3 +1,8 @@
+/*
+运动预览可以通过网站
+http://robertpenner.com/easing/easing_demo.html
+来了解！
+*/
 using UnityEngine;
 using System;
   
